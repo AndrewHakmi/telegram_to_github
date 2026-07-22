@@ -8,8 +8,6 @@ on:
 permissions:
   contents: write
 
-actions:
-
 jobs:
   fetch:
     runs-on: ubuntu-latest
